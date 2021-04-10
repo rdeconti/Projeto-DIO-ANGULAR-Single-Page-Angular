@@ -1,6 +1,6 @@
 # Projeto-DIO-ANGULAR-Single-Page-Angular
 
-:spiral_calendar: Atualizado em 5 de março de 2021 :heart:
+:spiral_calendar: Atualizado em 10 de abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
