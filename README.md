@@ -17,24 +17,5 @@ Quer se sentir mais seguro nas entregas de suas aplicações? Aprenda a testar u
 
 # Detalhes obtidos das aulas
 
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- Este projeto foi somente incluido no GitHub - O projeto entregue foi deste link https://github.com/rdeconti/Projeto-DIO-Angular-Cadastro-Usuarios
 
-## Telas dos testes executados
-
-- Tela inicial
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-aplicativo.jpg" />
-
-- Tela da doação
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-aplicativo-doa%C3%A7%C3%A3o.jpg" />
-
-- Tela com a lista dos testes (utilizando a extensão ".NET TEST EXPLORER")
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-lista-dos-testes.jpg" />
-
-- Tela iniciando a execução de um teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-de-um-teste.jpg" />
-
-- Tela com o log de execução do teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-de-um-teste-log.jpg" />
-
-- Tela com o resultado de um teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-indivudual-dos-testes.jpg" />
